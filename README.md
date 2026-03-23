@@ -40,7 +40,7 @@ Opens at `http://localhost:5173`
 - **Real matrix math** — actual multiplications with visible values
 - **Configurable** — adjust seq length, d_model, heads, layers, FF multiplier
 - **Click to inspect** — full matrix view with statistics (min, max, mean, std)
-- **Dimension journey** — see exactly where matrices expand and contract
+- **Dimension journey** — see exactly where matrices expand and contract 
 
 ## License
 
